@@ -9,10 +9,6 @@
   "scripts": {
     "test": "node tests/run-collections-in-directory.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://saritha.sr@bitbucket.techtreeit.com/scm/~saritha.sr/reciproci_api_test.git"
-  },
   "author": "Techtree",
   "dependencies": {
     "async": "^2.6.1",
